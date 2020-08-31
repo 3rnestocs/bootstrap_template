@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap_template",
+  "version": "1.0.0",
+  "description": "Template with html and css using Bootstrap library",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bootstrap",
+    "template",
+    "testing"
+  ],
+  "author": "@3rnestocs",
+  "license": "ISC"
+}
